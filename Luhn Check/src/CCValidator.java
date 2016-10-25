@@ -20,7 +20,7 @@ public class CCValidator
 //					 check1();
 //				 }
 //				System.out.println("The number of potentially valid credit card number in the list is " + counter + ".");
-				generateCCN();
+//				generateCCN();
 			
 			}
 		
